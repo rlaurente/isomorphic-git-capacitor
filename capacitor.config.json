@@ -1,0 +1,6 @@
+{
+  "appId": "com.test.ph",
+  "appName": "Testing",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}

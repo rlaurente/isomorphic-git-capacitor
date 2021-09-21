@@ -1,0 +1,21 @@
+{
+  "name": "mobile-raw-webgit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@capacitor/android": "^3.2.3",
+    "@capacitor/core": "^3.2.3",
+    "@capacitor/filesystem": "^1.0.3",
+    "capacitor-fs": "0.0.41-b5"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^3.2.3"
+  }
+}
